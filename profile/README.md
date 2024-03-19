@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## SOBRE A TECH ONE 💻
+Atuamos no mercado de tecnologia da informação como
+prestadora de serviços em desenvolvimento de sistemas, consultoria, sustentação e manutenção de sistemas legados e alocação de profissionais.
+Nosso foco é prover melhorias nos processos de negócio de nossos clientes, com elevado grau de satisfação, suportadas pelas melhores práticas da Tecnologia de Informação, inspirando inovação e impulsionando negócios para promover um mundo adaptado à transformação digital.
 <!--
 
 **Here are some ideas to get you started:**
